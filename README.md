@@ -6,28 +6,15 @@ Engineering high-performance applications, AI assistants, and scalable infrastru
 ---
 
 ## 📌 Banner
-![Banner](./banner1.jpg)
+![Banner](./banner.png)
 
----
-
-## 📊 GitHub Analytics
-
-| Metric | Status |
-|--------|--------|
-| 🔥 Total Contributions (2024–2025) | `●●●●●` Consistently active |
-| 📈 Contribution Streak | Ongoing |
-| 🏆 Top Languages | JavaScript, Python, HTML, CSS |
-| 💡 Core Technologies | MERN Stack, AI Integration, FastAPI, Tailwind |
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jabirmahmud0&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jabirmahmud0&show_icons=true&theme=dark)
 
 ## 🚀 Featured Projects
 
 ### 🔹 TechHive — AI-Powered Electronics E-Commerce Platform *(In Development, 2025)*
 
 * Pure JavaScript (JSX) MERN architecture
-* AI-driven via Gemini 2.0 Flash
+* AI-driven via Gemini 2.5 Flash
 * Smart chatbot, recommendation engine, dynamic content
 
 ### 🔹 CureBay — Healthcare E-Commerce Platform *(2024–2025)*
