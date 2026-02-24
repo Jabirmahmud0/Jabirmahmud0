@@ -84,11 +84,11 @@ Full-Stack Software Engineer building scalable, production-grade web application
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jabirmahmud0&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+![GitHub Stats](https://github-readme-stats-bfef.vercel.app/api?username=jabirmahmud0&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jabirmahmud0&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)
+![GitHub Streak](https://streak-stats.demolab.com/?user=jabirmahmud0&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jabirmahmud0&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
+![Top Languages](https://github-readme-stats-bfef.vercel.app/api/top-langs/?username=jabirmahmud0&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
 
 </div>
 
