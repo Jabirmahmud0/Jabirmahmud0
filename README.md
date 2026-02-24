@@ -48,7 +48,7 @@ Full-Stack Software Engineer building scalable, production-grade web application
 
 ### 🔷 TechVault — Premium Electronics E-Commerce Platform
 
-[Live](https://techvault.vercel.app) · [GitHub](https://github.com/jabirmahmud0/techvault)
+[Live](https://gotechvault.vercel.app)
 
 **Tech Stack:** Next.js 15 · TypeScript · Express.js · PostgreSQL · Stripe · Turborepo
 
@@ -60,7 +60,7 @@ Full-Stack Software Engineer building scalable, production-grade web application
 
 ### 🔷 CareerByAI — AI-Powered Career Platform
 
-[Live](https://careerbyai.vercel.app) · [Frontend](https://github.com/jabirmahmud0/careerbyai-frontend) · [Backend](https://github.com/jabirmahmud0/careerbyai-backend)
+[Frontend](https://github.com/Jabirmahmud0/AI_career_Client) · [Backend](https://github.com/Jabirmahmud0/AI_career_Server)
 
 **Tech Stack:** React · Node.js · Express · MongoDB · Google Gemini AI · PDF.js
 
@@ -71,7 +71,7 @@ Full-Stack Software Engineer building scalable, production-grade web application
 
 ### 🔷 CureBay — Healthcare E-Commerce Platform
 
-[Live](https://curebay.vercel.app) · [Frontend](https://github.com/jabirmahmud0/curebay-frontend) · [Backend](https://github.com/jabirmahmud0/curebay-backend)
+[Live](https://curebayy.vercel.app) · [Frontend](https://github.com/Jabirmahmud0/CureBay_Client) · [Backend](https://github.com/Jabirmahmud0/CureBay_Backend)
 
 **Tech Stack:** React · Node.js · Firebase · Stripe · Tailwind CSS
 
@@ -89,6 +89,14 @@ Full-Stack Software Engineer building scalable, production-grade web application
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jabirmahmud0&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)
 
 ![Top Languages](https://github-readme-stats-bfef.vercel.app/api/top-langs/?username=jabirmahmud0&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jabirmahmud0&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true)
+
+<img src="https://github-profile-trophy.vercel.app/?username=jabirmahmud0&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=jabirmahmud0&style=flat-square&color=58a6ff&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/jabirmahmud0?style=flat-square&color=58a6ff&labelColor=0d1117&label=Followers)
+![GitHub stars](https://img.shields.io/github/stars/jabirmahmud0?style=flat-square&color=58a6ff&labelColor=0d1117&label=Total+Stars)
 
 </div>
 
