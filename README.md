@@ -92,11 +92,7 @@ Full-Stack Software Engineer building scalable, production-grade web application
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jabirmahmud0&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true)
 
-<img src="https://github-profile-trophy.vercel.app/?username=jabirmahmud0&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=jabirmahmud0&style=flat-square&color=58a6ff&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/jabirmahmud0?style=flat-square&color=58a6ff&labelColor=0d1117&label=Followers)
-![GitHub stars](https://img.shields.io/github/stars/jabirmahmud0?style=flat-square&color=58a6ff&labelColor=0d1117&label=Total+Stars)
 
 </div>
 
